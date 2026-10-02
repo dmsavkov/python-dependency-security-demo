@@ -1,0 +1,2 @@
+# Exercise 3: a dependency-free package, so the lock is short and readable.
+idna==3.20

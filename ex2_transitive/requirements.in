@@ -1,0 +1,2 @@
+# Exercise 2: what YOU asked for (direct dependency only).
+requests==2.34.2

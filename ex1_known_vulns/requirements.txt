@@ -1,0 +1,5 @@
+# Exercise 1: deliberately OLD direct dependencies with real, published advisories.
+# Do NOT use these versions in real projects.
+# Named requirements.txt so Safety (`safety scan`) and Dependabot can discover it.
+requests==2.31.0
+jinja2==3.1.2

@@ -1,0 +1,33 @@
+# Local virtualenvs created by the exercises
+.venv*/
+
+# Python / tooling caches
+__pycache__/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+*.egg-info/
+*.pyc
+
+# Build / install outputs
+dist/
+build/
+ex4_install_time/dist/
+ex4_install_time/hello_install_hook/*.egg-info/
+ex3_hashes/dl/
+
+# Generated during exercises (do not commit)
+ex3_hashes/requirements-tampered.txt
+ex5_confusion_typosquatting/indexes/
+ex1_known_vulns/req-fixme.txt
+ex1_known_vulns/report.json
+ex1_known_vulns/.safety-project.ini
+
+# Safety / local machine state
+.safety-project.ini
+**/.safety-project.ini
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini

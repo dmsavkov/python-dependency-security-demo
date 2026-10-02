@@ -1,0 +1,2 @@
+# Exercise 5: pin the INTERNAL package by version AND hash (hash of the reproducible demo wheel).
+acme-internal-utils==1.0.0 --hash=sha256:e57e24fc1bdc3c8c9c875524e70f5fa6dfa8cec5555261d027df1f8afde7d08c

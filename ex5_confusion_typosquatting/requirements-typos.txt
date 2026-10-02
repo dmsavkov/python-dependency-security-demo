@@ -1,0 +1,8 @@
+# Exercise 5b: spot the impostors (offline check, nothing is installed).
+requests==2.34.2
+reqeusts==2.34.2
+python-dateutil==2.9.0
+colourama==0.4.6
+numpy>=2
+pandas
+djanga
