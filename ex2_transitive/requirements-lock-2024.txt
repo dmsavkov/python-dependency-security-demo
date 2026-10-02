@@ -2,7 +2,7 @@
 # The direct dependency (requests) was later bumped to a fixed version, but the
 # TRANSITIVE pins below are stale. You never typed these names yourself.
 requests==2.34.2
-certifi==2024.2.2
+certifi==2024.7.4
 charset-normalizer==3.3.2
 idna==3.6
 urllib3==2.2.1
